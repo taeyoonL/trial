@@ -1,16 +1,2 @@
-# trial
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 설명
+실습을 위해서 짠 앱이라기보다는 **네비게이션 바 기능을 연습**하고 *나중에 네비게이션 바 기능을 사용할 때* 혹시라도 까먹었을 때를 대비해서 한번 **참고용**으로 올려본 코드입니다.
