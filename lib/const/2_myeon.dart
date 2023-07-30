@@ -7,10 +7,10 @@ class HomeScreen_2 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.lightBlueAccent,
-        title: Text('안녕 친구들'),
+        title: Text('second page'),
         centerTitle: true,
       ),
-      body: Text('만나서 반가워'),
+      body: Text('hello_world'),
     );
   }
 }
