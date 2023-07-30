@@ -5,7 +5,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text('1면'),
+      body: Text('first page'),
     );
   }
 }
